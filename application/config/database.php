@@ -50,8 +50,8 @@ $active_group = ENVIRONMENT;
 
 $db['production'] = array(
     'hostname' => 'localhost',
-    'username' => 'gednet',
-    'password' => 'wBHpJZqMh5s4H2tA',
+    'username' => '',
+    'password' => '',
     'database' => 'gureeskudagonet',
     'dbdriver' => 'mysql',
     'dbprefix' => '',
@@ -68,8 +68,8 @@ $db['production'] = array(
 
 $db['development'] = array(
     'hostname' => 'localhost',
-    'username' => 'gednet',
-    'password' => 'wBHpJZqMh5s4H2tA',
+    'username' => '',
+    'password' => '',
     'database' => 'gureeskudagonet',
     'dbdriver' => 'mysql',
     'dbprefix' => '',
