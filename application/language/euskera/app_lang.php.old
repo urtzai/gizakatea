@@ -1,0 +1,79 @@
+<?php
+
+$lang['user'] = 'Erabiltzailea';
+$lang['password'] = 'Pasahitza';
+$lang['login'] = 'Saioa Hasi';
+$lang['formulario_de_contacto'] = 'Formulario de contacto --';
+$lang['asunto'] = 'Asunto --';
+$lang['escriba_el_asunto'] = 'Escriba el asunto --';
+$lang['mensaje'] = 'Mensaje --';
+$lang['escriba_su_mensaje'] = 'Escriba su mensaje --';
+$lang['enviar'] = 'Bilatu';
+$lang['error_acceso'] = 'Usuario o clave incorrectos. --';
+$lang['mapa'] = 'Mapa';
+$lang['gestion'] = 'Zerranda';
+$lang['comunicacion'] = 'Komunikatu';
+$lang['cerrar_sesion'] = 'Saioa Itxi';
+
+$lang['estadisticas'] = 'Estadistikak';
+$lang['metros_vendidos'] = 'Saldutako metroak';
+$lang['metros_libres'] = 'Saltzeko metroak';
+$lang['dias_que_faltan'] = 'Egun falta dira';
+$lang['metros_necesarios'] = 'metro saldu behar dituzu';
+
+$lang['editar'] = 'Editar';
+$lang['escriba_el_nombre'] = 'Escriba el nombre';
+$lang['escriba_el_apellido'] = 'Escriba el apellido';
+$lang['escriba_la_direccion'] = 'Escriba la dirección';
+$lang['escriba_el_telefono'] = 'Escriba el teléfono';
+$lang['escriba_el_metro'] = 'Escriba el metro';
+$lang['trama'] = 'Trama';
+$lang['enviado'] = '¿Enviado?';
+$lang['estado'] = 'Estado';
+$lang['forma_pago'] = 'Forma de pago';
+$lang['guardado_con_exito'] = 'El registro ha sido guardado satisfactoriamente';
+
+$lang['si_enviado'] = 'Enviado';
+$lang['no_enviado'] = 'No enviado';
+
+$lang['selecciona_un_idioma'] = 'Selecciona un idioma';
+$lang['ingles_c'] = 'Inglés';
+$lang['euskera_c'] = 'Euskera';
+$lang['castellano_c'] = 'Castellano';
+
+$lang['este_es_el_kilometro'] = 'Estas en el km : ';
+$lang['estas_aqui'] = 'Estas Aqui!';
+$lang['bienvenido'] = 'Bienvenido';
+$lang['descargar_csv'] = 'Descargar la lista en CSV';
+$lang['accion'] = 'Acción';
+
+/* Traducciones del front-end*/
+$lang['titulo'] = 'Gure Esku dago';
+$lang['subtitulo'] = 'Gure esku dago , bigarren linea';
+$lang['los_pueblos_necesitan'] = 'Herriak behar zaitu';
+$lang['encontrar_metro'] = 'Metroa Aukeratu';
+$lang['zurepk'] = 'Zure PK';
+$lang['gomendatu'] = 'Gomendatu metroa';
+$lang['behar'] = 'Hemen behar zaitugu';
+$lang['elegir_este'] = 'Hau aukeratu';
+$lang['buscar'] = 'Bilatzailea';
+$lang['eskualde'] = 'Eskualde';
+$lang['pueblo'] = 'Herria';
+$lang['ver_mapa'] = 'Ikusi mapa';
+$lang['comprar_metro'] = 'Metroa erosi';
+$lang['nombre'] = 'Izena';
+$lang['apellido'] = 'Abizena';
+$lang['email'] = 'Email-a';
+$lang['direccion'] = 'Direccion';
+$lang['telefono'] = 'Telefonoa';
+$lang['pk'] = 'PK';
+$lang['metro'] = 'Metroa';
+$lang['comprar'] = 'Erosi';
+$lang['como_se_compra'] = 'Nola erosten da?';
+$lang['como_encuentras_metro'] = 'Nola aukeratu zure metroa?';
+$lang['te_necesitan'] = 'Herriak behar zaitu';
+$lang['ingles'] = 'En';
+$lang['castellano'] = 'Es';
+$lang['euskera'] = 'Eu';
+$lang['codigo_postal'] = 'Código Postal';
+$lang['txt_los_pueblos_te_necesitan'] = 'Donec nulla. Aenean eu augue ac nisl tincidunt rutrum. Proin erat justo, pharetra eget, posuere at, malesuada et, nulla. Donec pretium nibh sed est faucibus suscipit. Nunc nisi. Nullam vehicula. In ipsum lorem, bibendum sed, consectetuer et, gravida id, erat. Ut imperdiet, leo vel condimentum faucibus, risus justo feugiat purus, vitae congue nulla diam non urna.';
